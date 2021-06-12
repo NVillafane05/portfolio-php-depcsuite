@@ -35,7 +35,7 @@ $pg = "sobre-mi";
 
                 </div>
                 <div class="col-sm-3 col-12 mt-4 offset-sm-2">
-                    <img src="imagenes/whatsap image 2021-05-17 at 16.53.48.jpeg" alt="natalia villafañe" title="Nelson Daniel Tarche"
+                    <img src="imagenes/whatsap image 2021-05-17 at 16.53.48.jpeg" alt="natalia villafañe" title="Natalia villafañe"
                         class="img-fluid img-circle">
                 </div>
             </div>
